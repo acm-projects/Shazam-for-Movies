@@ -1,0 +1,21 @@
+{
+  "name": "quickstart",
+  "version": "1.0.0",
+  "description": "Azure Cognitive Search 1",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shreya V",
+  "license": "MIT",
+  "dependencies": {
+    "nconf": "^0.10.0",
+    "node-fetch": "^2.6.0"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0",
+    "eslint-config-prettier": "^6.10.0",
+    "eslint-plugin-import": "^2.18.2",
+    "prettier": "^1.18.2"
+  }
+}
